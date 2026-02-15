@@ -12,8 +12,5 @@
 
 # About
 
-TOPIC.
-EVIDENCE.
-EXPLAIN.
-LINK.
+Harsh environmental conditions cultivated by inadequate practices has resulted in inefficient farming. Harsh environments like the Middle east have been degraded by climate change has resulting in scarce goods. Farmers can not afford to use out-dated methods such as trial-and-error as lost opportunities are costly and detrimental to societal growth. A pragmatic and accessible solution is required to monitor fluctuations and give real-time research-backed solutions.
 
